@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Hello!"
+---
 # Hello World
 
 Hi my name is Anusha
